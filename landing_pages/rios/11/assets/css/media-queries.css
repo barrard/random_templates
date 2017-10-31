@@ -1,0 +1,172 @@
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+	.top-content { padding: 80px 0 100px 0; }
+	
+	.timer .days-wrapper, .timer .hours-wrapper, .timer .minutes-wrapper, .timer .seconds-wrapper {
+        width: 140px; height: 140px; margin: 0 4px; padding-top: 20px;
+    }
+    .timer .days, .timer .hours, .timer .minutes, .timer .seconds { font-size: 60px; line-height: 70px; }
+	
+	.section-bottom-button { padding-top: 40px; }
+	
+	.features-container { padding-top: 0; padding-bottom: 95px; }
+	
+	.img-section-1-container { padding-top: 0; }
+	.img-section-1-text { margin-top: 40px; }
+	
+	.img-section-2-container { padding-top: 0; padding-bottom: 100px; }
+	.img-section-2-text { margin-top: 40px; }
+	
+	.call-to-action-container { padding-top: 0; }
+	
+	.how-it-works-container { padding-top: 0; padding-bottom: 95px; }
+	
+	.testimonials-container { padding-top: 60px; }
+	
+	.img-section-3-container { padding-top: 100px; padding-bottom: 100px; }
+	.img-section-3-text { margin-top: 0; }
+	
+	.about-us-container { padding-top: 0; padding-bottom: 80px; }	
+	
+	.contact-container { padding-top: 80px; padding-bottom: 100px; }
+	
+	.footer-top { padding: 40px 0; }
+	
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	.top-content { padding: 80px 0 100px 0; }
+	
+	.timer { margin-top: 40px; }
+	.timer .days-wrapper, .timer .hours-wrapper, .timer .minutes-wrapper, .timer .seconds-wrapper {
+        width: 100px; height: 100px; margin: 4px; padding-top: 14px;
+    }
+    .timer .days, .timer .hours, .timer .minutes, .timer .seconds { font-size: 30px; line-height: 40px; }
+
+	.section-description p { padding: 0; }
+	.section-bottom-button { padding-top: 40px; }
+	
+	.features-container { padding-top: 0; padding-bottom: 95px; }
+	.features-box-icon { font-size: 40px; line-height: 40px; }
+	.features-box h3 { font-size: 20px; font-weight: 400; line-height: 34px; }
+	
+	.img-section-1-container { padding-top: 0; }
+	.img-section-1-text { margin-top: 0; }
+	
+	.img-section-2-container { padding-top: 0; padding-bottom: 100px; }
+	.img-section-2-text { margin-top: 0; }
+	
+	.call-to-action-container { padding-top: 0; }
+	
+	.how-it-works-container { padding-top: 0; padding-bottom: 95px; }
+	.how-it-works-number { width: 40px; height: 40px; font-size: 24px; line-height: 40px; }
+	.how-it-works-box h3 { font-size: 20px; font-weight: 400; line-height: 34px; }
+	
+	.testimonials-container { padding-top: 60px; }
+	
+	.img-section-3-container { padding-top: 100px; padding-bottom: 100px; }
+	.img-section-3-text { margin-top: 0; }
+	
+	.about-us-container { padding-top: 0; padding-bottom: 80px; }
+	
+	.contact-container { padding-top: 80px; padding-bottom: 100px; }
+
+	.footer-top { padding: 40px 0; }
+	.footer-contact i { padding-right: 5px; }
+
+}
+
+@media (max-width: 767px) {
+	
+	.navbar { padding-top: 0; background: #444; }
+	.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand { margin-left: 15px; }
+	.navbar-collapse { border: 0; }
+	.navbar-inverse .navbar-toggle { border-color: transparent; }
+	.navbar-inverse ul.navbar-nav li a.btn-link-3 { margin: 10px; }
+	
+	.section-description p { padding: 0; }
+	.section-bottom-button { padding-top: 40px; }
+	
+	.top-content { padding: 40px 0 80px 0; }
+	.subscribe input.subscribe-email, .subscribe button { width: 100%; }
+	
+	.timer { margin-top: 40px; }
+	.timer .days-wrapper, .timer .hours-wrapper, .timer .minutes-wrapper, .timer .seconds-wrapper {
+        width: 100px; height: 100px; margin: 4px; padding-top: 14px;
+    }
+    .timer .days, .timer .hours, .timer .minutes, .timer .seconds { font-size: 30px; line-height: 40px; }
+	
+	.features-container { padding-top: 10px; padding-bottom: 95px; }
+	.features { padding-bottom: 10px; }
+	.features-box { text-align: center; }
+	.features-box:first-child { margin-top: 30px; }
+	.features-box-icon, .features-box h3, .features-description { float: none; width: auto; }
+	.features-box h3 { margin-top: 20px; }
+	
+	.img-section-1-container { padding-top: 0; text-align: center; }
+	.img-section-1-text { margin-top: 40px; }
+	.img-section-1-text .divider-1 .line { margin: 0 auto; }
+	
+	.img-section-2-container { padding-top: 0; padding-bottom: 100px; text-align: center; }
+	.img-section-2-text { margin-top: 0; }
+	.img-section-2-text .divider-1 .line { margin: 0 auto; }
+	.img-section-2 { margin-top: 50px; }
+	
+	.call-to-action-container { padding-top: 10px; }
+	
+	.how-it-works-container { padding-top: 10px; padding-bottom: 95px; }
+	.how-it-works { padding-bottom: 10px; }
+	.how-it-works-box { text-align: center; }
+	.how-it-works-box:first-child { margin-top: 30px; }
+	.how-it-works-number { float: none; display: inline-block; }
+	.how-it-works-box h3 { float: none; width: auto; margin-top: 20px; }
+	.how-it-works-description { float: none; width: auto; }
+	
+	.testimonials-container { padding-top: 60px; text-align: center; }
+	.testimonials .divider-1 .line { margin: 0 auto; }
+	.testimonial-list { margin-top: 50px; }
+	.testimonial-list .nav-tabs { text-align: center; }
+	
+	.img-section-3-container { padding-top: 100px; padding-bottom: 100px; text-align: center; }
+	.img-section-3-text { margin-top: 40px; }
+	.img-section-3-versions a { margin: 0 10px; }
+	
+	.about-us-container { padding-top: 10px; padding-bottom: 80px; }
+	.about-us-box:first-child { padding-top: 30px; }
+	
+	.contact-container { padding-top: 80px; padding-bottom: 100px; }
+
+	.footer-top { padding: 40px 0; text-align: center; }
+	.footer-contact i { padding-right: 5px; }
+	.footer-bottom, .footer-social { text-align: center; }
+	.footer-social a { margin: 0 10px; }
+
+}
+
+@media (max-width: 415px) {
+	
+	h1, h2 { font-size: 36px; }
+	
+	.c-form-1-top-right { font-size: 40px; line-height: 90px; }
+
+}
+
+
+/* Retina-ize images/icons */
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	
+	/* logo */
+    .navbar-brand {
+    	background-image: url(../img/logo@2x.png) !important; background-repeat: no-repeat !important; background-size: 71px 22px !important;
+    }
+	
+}
